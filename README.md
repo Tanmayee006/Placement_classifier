@@ -9,3 +9,8 @@ I used 4 algorithms :<br>
 3.Random forest classifier<br>
 4.XGBoost<br>
 <br>
+<b> These are the accuracies of the model </b><br><br>
+Model Accuracy on Test Set using Logistic regression: 82.19%<br>
+Model Accuracy on Test Set using SVM: 83.56%<br>
+Model Accuracy on Test Set using RandomForestClassifier: 90.41%<br>
+Model Accuracy on Test Set using XGBoost: 90.41%<br>
